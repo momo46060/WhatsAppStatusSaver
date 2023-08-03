@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/settings"
+        android:title="@string/setting" />
+
+    <item
+        android:id="@+id/downloadFragment"
+        android:icon="@drawable/download"
+        android:title="@string/download" />
+
+    <item
+        android:id="@+id/savedFragment"
+        android:icon="@drawable/saved"
+        android:title="@string/saved_videos" />
+
+</menu>

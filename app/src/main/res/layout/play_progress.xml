@@ -1,0 +1,38 @@
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="20dp"
+    android:background="@color/white"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:background="@color/white"
+        android:layout_centerHorizontal="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+
+        <com.google.android.gms.ads.AdView
+            android:layout_gravity="center"
+            android:layout_marginBottom="@dimen/_10sdp"
+            xmlns:ads="http://schemas.android.com/apk/res-auto"
+            android:id="@+id/adView22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="SMART_BANNER"
+            ads:adUnitId="@string/banner_ad_id"/>
+        <VideoView
+            android:layout_gravity="center"
+            android:id="@+id/video_view"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            />
+        <Button
+            android:text="@string/download"
+            android:id="@+id/downnnnn"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_70sdp"/>
+
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
+

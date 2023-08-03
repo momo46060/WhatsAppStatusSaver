@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">حفظ حالات الواتس</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paste_the_link">الصق الرابط</string>
+    <string name="download">تحميل</string>
+    <string name="paste">الصق</string>
+    <string name="loading">جارى التحميل.......</string>
+    <string name="Permission_Needed">مطلوب الاذن</string>
+    <string name="Permission_msg">مطلوب الموافقه على الاذن لعرض المحتوى</string>
+    <string name="delete_msg">هل تريد تاكيد حذف الملف</string>
+    <string name="yes">موافق</string>
+    <string name="No">غير موافق</string>
+    <string name="Delete">حذف</string>
+    <string name="WhatsApp">واتساب</string>
+    <string name="share">مشاركه</string>
+    <string name="todo">TODO</string>
+    <string name="save">حفظ</string>
+    <string name="banner_ad_id">ca-app-pub-8270803172827285/2451021834</string>
+    <string name="intirstl_ad_id">ca-app-pub-8270803172827285/6198695154</string>
+    <string name="test_id">D92A7A4993C996648255E452C4E2556C</string>
+    <string name="allow">السماح</string>
+    <string name="allow_msg">عزيزى المستخدم مطلوب اذن التخزين لحفظ مقاطع الفيديو </string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="setting">اخرى</string>
+    <string name="saved_videos">الفيديوهات المحفوظه</string>
+    <string name="share_app">مشاركه التطبيق</string>
+    <string name="rate_app">تقييم التطبيق</string>
+    <string name="more_apps">تطبيقتنا الاخرى</string>
+    <string name="finsh">خروج</string>
+    <string name="watch">مشاهده</string>
+
+</resources>

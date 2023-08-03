@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/bu_save"
+    android:icon="@drawable/saved"
+    app:showAsAction="always"
+    android:title="svae" />
+    <item
+        android:id="@+id/bu_share"
+        android:icon="@drawable/sha"
+        android:title="share"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/bu_delete"
+        android:icon="@drawable/delete"
+        android:title="delete"
+        app:showAsAction="always" />
+</menu>

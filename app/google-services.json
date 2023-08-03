@@ -1,0 +1,164 @@
+{
+  "project_info": {
+    "project_number": "1037722891163",
+    "firebase_url": "https://whatsss-3722e.firebaseio.com",
+    "project_id": "whatsss-3722e",
+    "storage_bucket": "whatsss-3722e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037722891163:android:0552044ee64740a552673e",
+        "android_client_info": {
+          "package_name": "com.bomb.app.facebookvideodownloder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VezpJ0cCgyfp6fpx6L-nrLdu62HiruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037722891163:android:2a18a232e7d8561852673e",
+        "android_client_info": {
+          "package_name": "com.bomb.app.maseg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VezpJ0cCgyfp6fpx6L-nrLdu62HiruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037722891163:android:0f50cbfd1cba481852673e",
+        "android_client_info": {
+          "package_name": "com.bomb.app.whatsappstatussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VezpJ0cCgyfp6fpx6L-nrLdu62HiruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037722891163:android:dbcd62701e994fef52673e",
+        "android_client_info": {
+          "package_name": "com.bomb.app.whatsss"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037722891163-0iesjbv7lmfp8dc3b526q21g3cgqnrp9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bomb.app.whatsss",
+            "certificate_hash": "e84242d1d5b2ef36439b2603c6791d6094c0978c"
+          }
+        },
+        {
+          "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VezpJ0cCgyfp6fpx6L-nrLdu62HiruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1037722891163:android:94e843131f009c3352673e",
+        "android_client_info": {
+          "package_name": "com.bomb.app.zmalkawy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7VezpJ0cCgyfp6fpx6L-nrLdu62HiruE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1037722891163-uiu4lhdt3msa5dboamj633ccbmrbpf76.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

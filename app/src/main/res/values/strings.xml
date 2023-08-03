@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="paste_the_link">paste the link</string>
+    <string name="download">Download</string>
+    <string name="paste">Paste</string>
+    <string name="loading">Loading.......</string>
+    <string name="Permission_Needed">Permission Needed</string>
+    <string name="Permission_msg">Permission is needed to access files from your device...</string>
+    <string name="Delete">Delete</string>
+    <string name="WhatsApp">WhatsApp</string>
+    <string name="share">Share</string>
+    <string name="todo">TODO</string>
+    <string name="delete_msg">Do you Want to delete this file</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="banner_ad_id">ca-app-pub-8270803172827285/2451021834</string>
+    <string name="intirstl_ad_id">ca-app-pub-8270803172827285/6198695154</string>
+    <string name="test_id">D92A7A4993C996648255E452C4E2556C</string>
+    <string name="allow">Allow</string>
+    <string name="allow_msg">Dear user, storage permission is required to save the videos</string>
+    <string name="title_activity_main2">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="setting">Others</string>
+    <string name="saved_videos">Saved Video</string>
+    <string name="share_app">Share App</string>
+    <string name="rate_app">Rate our App</string>
+    <string name="more_apps">More Apps</string>
+    <string name="finsh">Exit</string>
+    <string name="watch">Watch</string>
+    <string name="save">Save</string>
+
+
+</resources>
