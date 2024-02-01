@@ -9,14 +9,14 @@ plugins {
 }
 
 android {
-    compileSdkVersion 31
+    compileSdkVersion 33
 
     defaultConfig {
         applicationId "com.bomb.app.whatsappstatussaver"
         minSdkVersion 19
-        targetSdkVersion 31
-        versionCode 20
-        versionName "20.0"
+        targetSdkVersion 33
+        versionCode 25
+        versionName "25.0"
         multiDexEnabled true
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

@@ -34,7 +34,6 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
         if (intent.extras != null) {
-
             link = intent.extras!!.getString("link").toString()
             if (link != "m") {
                 val i = Intent()
@@ -59,7 +58,7 @@ class MainActivity : AppCompatActivity() {
         val navView: BottomNavigationView = findViewById(R.id.nav_view)
         navController = findNavController(R.id.nav)
         navView.setupWithNavController(navController)
-
+        binding.navView.visibility = View.GONE
 
     }
 
