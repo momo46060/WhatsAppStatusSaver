@@ -147,7 +147,11 @@ class DownloadFragment : Fragment() {
             for (file in pickedDir!!.listFiles()) {
                 Imagelist.add(file.uri.toString())
             }
-            adpter.setlist(Imagelist)
+            if (Imagelist.isEmpty()){
+                Toast.makeText(requireContext(), "No status", Toast.LENGTH_SHORT).show()
+            }else{
+                adpter.setlist(Imagelist)
+            }
         }
 
     }
