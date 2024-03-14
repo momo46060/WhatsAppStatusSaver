@@ -21,7 +21,7 @@ class Adsimpl @Inject constructor(@ActivityContext private val contextt: Context
 
     var mInterstitialAd: InterstitialAd? = null
 
-     fun preperad(): AdRequest {
+     fun preperad(): AdRequest {/*
 
         val adRequest = AdRequest.Builder().build()
 
@@ -40,16 +40,16 @@ class Adsimpl @Inject constructor(@ActivityContext private val contextt: Context
                     mInterstitialAd = interstitialAd
                 }
             })
-
+*/
     return AdRequest.Builder()
     .build()
 }
 
- fun showad() {
+ fun showad() {/*
     if (mInterstitialAd != null) {
         mInterstitialAd?.show(contextt as Activity)
     } else {
         Log.d("TAG", "The interstitial ad wasn't ready yet.")
-    }
+    }*/
 }
 }

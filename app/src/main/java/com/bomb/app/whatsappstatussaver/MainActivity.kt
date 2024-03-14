@@ -33,6 +33,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
+/*
         if (intent.extras != null) {
             link = intent.extras!!.getString("link").toString()
             if (link != "m") {
@@ -47,6 +48,9 @@ class MainActivity : AppCompatActivity() {
         } else {
             Start()
         }
+*/
+        Start()
+
     }
 
 
